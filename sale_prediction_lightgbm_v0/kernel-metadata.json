@@ -1,7 +1,7 @@
 {
   "id": "keyit92/sale_prediction_lightGbm_v0",
   "title": "Sale Prediction LightGBM V0",
-  "code_file": "main_notebook.ipynb.ipynb",
+  "code_file": "main_notebook.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "true",
