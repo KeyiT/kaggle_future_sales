@@ -1,13 +1,19 @@
 {
-  "id": "keyit92/sale_prediction_lightGbm_v0",
+  "id": "keyit92/sale-prediction-lightgbm-v0",
+  "id_no": 2731481,
   "title": "Sale Prediction LightGBM V0",
   "code_file": "main_notebook.ipynb",
   "language": "python",
   "kernel_type": "notebook",
-  "is_private": "true",
-  "enable_gpu": "false",
-  "enable_internet": "false",
-  "dataset_sources": ["keyit92/futuresalepredictiontmp"],
-  "competition_sources": ["competitive-data-science-predict-future-sales"],
-  "kernel_sources": []
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "keyit92/futuresalepredictiontmp"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitive-data-science-predict-future-sales"
+  ]
 }

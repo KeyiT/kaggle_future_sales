@@ -1,13 +1,17 @@
 {
-  "id": "keyit92/sale_prediction_xgbost_v0",
+  "id": "keyit92/sale-prediction-xgboost-v0",
+  "id_no": 2731389,
   "title": "Sale Prediction XGBoost V0",
-  "code_file": "main_notebook.ipynb.ipynb",
+  "code_file": "main_notebook.ipynb",
   "language": "python",
   "kernel_type": "notebook",
-  "is_private": "true",
-  "enable_gpu": "false",
-  "enable_internet": "false",
-  "dataset_sources": ["keyit92/futuresalepredictiontmp"],
-  "competition_sources": ["competitive-data-science-predict-future-sales"],
-  "kernel_sources": []
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "keyit92/futuresalepredictiontmp"
+  ],
+  "kernel_sources": [],
+  "competition_sources": ["competitive-data-science-predict-future-sales"]
 }
